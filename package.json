@@ -1,0 +1,21 @@
+{
+  "name": "nm-command-server",
+  "version": "0.0.2",
+  "description": "nm server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lingtal/nm-command-server.git"
+  },
+  "keywords": [
+    "fis3",
+    "server"
+  ],
+  "author": {
+    "name": "听着情歌流泪"
+  },
+  "license": "BSD"
+}
