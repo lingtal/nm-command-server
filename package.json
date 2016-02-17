@@ -1,6 +1,6 @@
 {
   "name": "nm-command-server",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "nm server",
   "main": "index.js",
   "scripts": {
